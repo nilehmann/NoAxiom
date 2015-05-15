@@ -12,6 +12,8 @@
 *.mli.d
 *.mllib.d
 
+Makefile.coq
+
 # ocamlbuild working directory
 _build/
 
