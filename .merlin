@@ -1,0 +1,4 @@
+FLG -rectypes
+S src
+B src
+B /home/nlehmann/.opam/coq-8.5/lib/coq/*

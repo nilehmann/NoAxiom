@@ -1,0 +1,7 @@
+-I src
+-R theories NoAxiom
+-I theories
+src/noAxiom.ml4
+src/no_axiom_plugin.mllib
+theories/NoAxiom.v
+test-suite/Example.v
