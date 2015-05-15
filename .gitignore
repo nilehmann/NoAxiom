@@ -7,6 +7,9 @@
 *.cmx
 *.cmxs
 *.cmxa
+*.ml.d
+*.mli.d
+*.mllib.d
 
 # ocamlbuild working directory
 _build/
@@ -18,3 +21,8 @@ _build/
 # oasis generated files
 setup.data
 setup.log
+
+# Coq
+*.glob
+*.v.d
+*.vo
